@@ -3,29 +3,28 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-Hi, I'm Jye Cusch. I'm a software engineer passionate about building great user experiences and exploring new architectural patterns in web development.
+Hey, I'm Jye. I write code and occasionally words.
 
-## What I Write About
+I got to ride the fintech rocket at Avoka until the acquisition, now building [Nitric](https://nitric.io) because I got tired of writing the same cloud boilerplate over and over.
 
-I write about software engineering topics that catch my interest, particularly:
+## What ends up here
 
-- **Local-first architecture** and distributed systems
-- **Developer experience** and productivity tools
-- **Web performance** and user experience optimization
-- **Modern web frameworks** and emerging technologies
+This blog is just me working through whatever's in my head. Usually that means:
 
-## Recent Interests
+- **Distributed systems** that actually work in production
+- **Developer tools** that don't make me want to quit programming
+- **Local-first architecture** because waiting for servers is so 2010
+- **Programming paradigms** that make me unreasonably happy
+- Random observations from building software for 15+ years
 
-I've recently been diving deep into local-first development patterns, inspired by tools like Linear that deliver impossibly fast user experiences. Check out my post about going down the Linear rabbit hole to see what I mean.
+## Currently obsessed with
 
-## Connect
+Local-first development patterns (blame Linear for setting the bar impossibly high), and why most "best practices" are just expensive ways to procrastinate.
 
-Feel free to reach out:
+Fair warning: I get unreasonably excited about boring infrastructure problems.
+
+## Find me elsewhere
 
 - [GitHub](https://github.com/jyecusch)
 - [X (Twitter)](https://x.com/jyeiguess)
-- [LinkedIn](https://www.linkedin.com/in/jye-cusch/)
-
----
-
-_This blog is built with [Astro](https://astro.build/) and the [AstroPaper](https://github.com/satnaing/astro-paper) theme._
+- [LinkedIn](https://www.linkedin.com/in/jye-cusch/) (if you're into that sort of thing)
