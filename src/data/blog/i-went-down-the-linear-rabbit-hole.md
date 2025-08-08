@@ -127,7 +127,7 @@ Under the hood, Jazz uses several clever techniques:
 Every piece of data is automatically assigned a unique ID. This avoids collisions and allows for efficient sync.
 
 **2. Event Sourcing**  
-Changes appear to be stored as events, with a materialize current state of the full object graph. This keeps sync operations fast, but only syncing changes.
+Changes appear to be stored as events, with a materialize current state of the full object graph. This keeps sync operations fast, by only syncing changes.
 
 **3. End-to-End Encryption**  
 Data is encrypted on the client before syncing. The server sees only encrypted blobs. This is architecturally fascinating... but also challenging as I discuss later.
@@ -149,7 +149,7 @@ Post.create(
 
 ### The Trade-offs
 
-This architecture is exceptionally productive, particularly for prototyping. Without the typical flow breaking distractions where you stop work on the UI to go write an API operations or DTOs for every interaction.
+This architecture is exceptionally productive, particularly for prototyping. Without the typical flow breaking distractions where you stop work on the UI to go write API operations or DTOs for every interaction.
 
 That said, it creates some interesting constraints:
 
