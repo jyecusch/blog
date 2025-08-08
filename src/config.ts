@@ -1,9 +1,9 @@
 export const SITE = {
-  website: "https://jyecusch.github.io/blog/", // GitHub Pages URL
+  website: "https://bytemash.net", // GitHub Pages URL
   author: "Jye Cusch",
   profile: "https://github.com/jyecusch",
-  desc: "Thoughts on software engineering, local-first architecture, and building better web applications.",
-  title: "Jye's Blog",
+  desc: "Thoughts on software engineering, and building better web applications.",
+  title: "Bytemash",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
