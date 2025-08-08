@@ -1,7 +1,9 @@
 {
-  "name": "blog",
+  "name": "jye-blog",
   "type": "module",
-  "version": "5.5.0",
+  "version": "1.0.0",
+  "description": "Jye Cusch's personal blog about software engineering",
+  "author": "Jye Cusch",
   "scripts": {
     "dev": "astro dev",
     "build": "astro check && astro build && pagefind --site dist && cp -r dist/pagefind public/",
