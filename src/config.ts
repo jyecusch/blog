@@ -4,7 +4,7 @@ export const SITE = {
   profile: "https://github.com/jyecusch",
   desc: "Thoughts on software engineering, and building better web applications.",
   title: "Bytemash",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "bytemash-og.png",
   lightAndDarkMode: true,
   postPerIndex: 4,
   postPerPage: 4,
