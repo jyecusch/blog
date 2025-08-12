@@ -73,6 +73,7 @@ Fortunately, the local-first community has been building solutions. Here's the c
 - **[Electric SQL](https://electric-sql.com/)** - Postgres-backed sync engine
 - **[PowerSync](https://www.powersync.com/)** - Enterprise-focused solution
 - **[Jazz](https://jazz.tools/)** - The one that caught my eye (see below)
+- **[Dexie Cloud](https://dexie.org/cloud/)** - If already using Dexie.js
 - **[Replicache](https://replicache.dev/)** - The OG (RIP)
 - **[Zero](https://zero.rocicorp.dev/)** - Replicache team's new approach
 - **[Triplit](https://www.triplit.dev/)** - TripleStore-based sync
