@@ -16,6 +16,8 @@ Then we looked at the names of the new users and they were entries like `PfVQXvY
 
 We checked [Resend](https://resend.com) (our email service) and could see welcome emails going out and being delivered to these accounts. They were real email addresses, with garbage names... something was off.
 
+![resend dashboard](/images/blog/subscription-bombing/resend-dashboard.png)
+
 ## What is subscription bombing?
 
 Subscription bombing is an attack where someone uses bots to sign up a victim's email address across hundreds or thousands of websites. The goal isn't to access those accounts on those website, it's to flood the victim's inbox with so much noise that they can't find the emails that actually matter.
