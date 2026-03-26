@@ -20,7 +20,7 @@ We checked [Resend](https://resend.com) (our email service) and could see welcom
 
 ## What is subscription bombing?
 
-Subscription bombing is an attack where someone uses bots to sign up a victim's email address across hundreds or thousands of websites. The goal isn't to access those accounts on those website, it's to flood the victim's inbox with so much noise that they can't find the emails that actually matter.
+Subscription bombing is an attack where someone uses bots to sign up a victim's email address across hundreds or thousands of websites. The goal isn't to access those accounts on those websites, it's to flood the victim's inbox with so much noise that they can't find the emails that actually matter.
 
 While the victim is drowning in "Welcome to SaaS Product!" and "Verify your email for Newsletter You Never Asked For", the attacker is doing something else. They're resetting the victim's bank password, making purchases on their accounts, or signing up for credit cards in their name. The real security alerts and confirmation emails get buried by the noise.
 
