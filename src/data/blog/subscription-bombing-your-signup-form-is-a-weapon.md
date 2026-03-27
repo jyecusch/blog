@@ -82,11 +82,11 @@ After deploying Turnstile, the bot sign-ups stopped, so I want to specifically c
 
 ### Limiting email to verified users only
 
-Even with Turnstile in place, we wanted to limit the damage if this happens again. We updated our email service code so that a user receives exactly one email from us (the verification email) until they click the link and prove they own the address. No welcome email, no product updates, nothing else until verification. We should have had it this was from the start, which is a mistake I regret.
+Even with Turnstile in place, we wanted to limit the damage if this happens again. We updated our email service code so that a user receives exactly one email from us (the verification email) until they click the link and prove they own the address. No welcome email, no product updates, nothing else until verification. We should have had it this way from the start, which is a mistake I regret.
 
 If a bot creates an account with someone else's email, the victim gets one email, if they ignore it that's the end of it. The welcome email and everything after it only fires once the user verifies.
 
-(For social auth sign-ups through Google or GitHub, we send the welcome email right away since those providers have already verified the email.)
+(For social auth sign-ups through Google or GitHub, we send the welcome email right away since those providers have already verified their email address.)
 
 ## Wrapping up
 
